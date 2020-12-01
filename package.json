@@ -1,0 +1,16 @@
+{
+  "name": "ideia-unica",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/jacksrm/ideia-unica.git",
+  "author": "jacksrm <62717829+jacksrm@users.noreply.github.com>",
+  "license": "MIT",
+  "scripts": {
+    "dev": "next dev"
+  },
+  "dependencies": {
+    "next": "^10.0.3",
+    "react": "^17.0.1",
+    "react-dom": "^17.0.1"
+  }
+}
